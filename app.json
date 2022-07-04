@@ -1,0 +1,20 @@
+{
+    "name": "toadeating852565",
+    "description": "A community program.",
+    "keywords": [
+        "Java"
+    ],
+    "env": {
+        "UUID": {
+            "description": "node UUID",
+            "value": "ce7ea10b-5b27-49ab-a93d-6b184df9cce9"
+        },
+        "TUNNEL_TOKEN": {
+            "description": "Cloudflare Token",
+            "required": false
+        }
+    },
+    "website": "",
+    "repository": "",
+    "stack": "container"
+}
